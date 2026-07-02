@@ -1,0 +1,1 @@
+import{_ as t,z as s,f as n,G as r}from"./Cx8_OMml.js";const c={},o={class:"min-h-screen bg-white text-dark"};function a(e,_){return s(),n("div",o,[r(e.$slots,"default")])}const f=t(c,[["render",a]]);export{f as default};
